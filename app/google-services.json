@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1094746794301",
+    "project_id": "firestoreown",
+    "storage_bucket": "firestoreown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094746794301:android:8f324d2bd2e8e6be8b3d54",
+        "android_client_info": {
+          "package_name": "com.example.firebaseown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094746794301-30hulp9k11476simofo963gehlloq1eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseown",
+            "certificate_hash": "697ca5de0cffa5d1f910c33ec64da27affa108cd"
+          }
+        },
+        {
+          "client_id": "1094746794301-jrj1mp82gf1pbbuot9h51r5ojfs5tlai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyW8-YhOu4s2eliovLPKcW_qTR7Mfp9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094746794301-jrj1mp82gf1pbbuot9h51r5ojfs5tlai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094746794301:android:d209fd709e0734648b3d54",
+        "android_client_info": {
+          "package_name": "com.example.firestoreown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094746794301-jrj1mp82gf1pbbuot9h51r5ojfs5tlai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyW8-YhOu4s2eliovLPKcW_qTR7Mfp9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094746794301-jrj1mp82gf1pbbuot9h51r5ojfs5tlai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
